@@ -17,7 +17,7 @@ body {
 
 header img {
     width: 100%;
-    height: 60%;
+    height: 70%;
     display: block;
 }
 
@@ -72,6 +72,24 @@ article p {
     padding: 15px 0;
 }
 
+slide h1 {
+    font-size: 30px;
+    text-align: center;
+    margin: 0 10% 20px;
+    padding-bottom: 15px;
+    border-bottom: 5px solid black;
+    background-color: white;
+}
+
+movie h1 {
+    font-size: 30px;
+    text-align: center;
+    margin: 0 10% 20px;
+    padding-bottom: 15px;
+    border-bottom: 5px solid black;
+    background-color: white;
+}
+
 iframe {
     margin-top: 20px;
     width: 100%;
@@ -87,3 +105,5 @@ footer p {
     margin-top: 10px;
       
 }
+
+
